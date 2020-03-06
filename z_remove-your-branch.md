@@ -1,6 +1,6 @@
 # Removing Your Branch
 
-There may be a reason to remove your branch, for example, if you are testing a branch or miss-name the branch and so on.
+There may be various reasons to remove your branch. For example, if you are testing a branch or you miss-name the branch etc.
 
 To remove your branch, do the following:
 
@@ -12,7 +12,7 @@ To remove your branch, do the following:
 | ------------- |
 | <img width="862" alt="Screen Shot 2020-03-05 at 1 33 14 PM" src="https://user-images.githubusercontent.com/61600802/76028000-8419e500-5ee6-11ea-8488-06520fbd292c.png">  |
 
-3. Click the **Trash Can** icon to delete.
+3. Click the **Trash Can** icon to delete the branch.
 
 | Trash Can Icon |
 | ------------- |
