@@ -4,7 +4,10 @@ If you're familiar with Git/GitHub then head to the Wiki portion of this GitHub 
 
 These git pages consist of the following main topics. Start here to move through the various topics below.
 
-* [Basic Git Terms and Concepts You Should Know](concepts.md)
+* [Start Here = Basic Git Terms and Concepts You Should Know](z_concepts.md)
+* [How to Create Your Brach for Suggested Changes](z_create-your-branch.md)
+* [If You Want to Delete Your Branch](z_remove-your-branch.md)
+* [Yes, Keep me Notified of Changes/Updates](z_yes-get-notifications.md)
 
 ----------------------
 
