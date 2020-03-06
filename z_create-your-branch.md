@@ -11,7 +11,7 @@ To create your own branch, do the following (see example image below). **Please 
 
 3. Click **Create branch**: 
 
-:+1: **Tip:** Bookmark this site/your branch; it’s easy to forget name of your branche/s when the list is long. :+1:
+:+1: **Tip:** Bookmark this site/your branch; it’s easy to forget name of your branch when the list is long. :+1:
 
 ## Protocols: Here's Why
 
