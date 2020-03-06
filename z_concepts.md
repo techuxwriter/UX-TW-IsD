@@ -1,6 +1,6 @@
 # Git Basic Terms/Concepts
 
-These are some of the basic concepts and terms that I have learned while using Git. It is not exhaustive, but rather a starting point. :grinning:
+These are some of the basic concepts and terms that I have learned while using Git. It is not exhaustive, but rather a starting point. Feel free to suggest others. :+1: 
 
 This section discusses the following main topics:
 
@@ -15,7 +15,7 @@ This section discusses the following main topics:
 
 ## GitHub
 
-Essentially, there are two main versions of GitHub the UNIX/Command Line version and the online interface version. Though a GitHub can be thought of as a repository for hosting content, Git itself is a command-line tool that power users (such as engineering) use. While I have explored using the CLI and [PyCharm](https://www.jetbrains.com/pycharm), etc., personally, I prefer the interface, which is more user-friendly. See [Git Wiki](https://en.wikipedia.org/wiki/Git) for more details. 
+Essentially, there are two main versions of GitHub the UNIX-Linux Command Line (CLI) version and the Interface/GUI version. Though a GitHub can be thought of as a repository for hosting content, Git itself is a powerful command-line tool. While I have explored using the CLI with [PyCharm](https://www.jetbrains.com/pycharm), etc., personally, I prefer the GUI, which is more user-friendly. See [Git Wiki](https://en.wikipedia.org/wiki/Git) for more details. 
 
 * **Note:** There are many resources for advance Git CLI usage, and lots of UNIX/Linux commands for Git. I'm not going to cover those but would encourage you to learn these.  
 
