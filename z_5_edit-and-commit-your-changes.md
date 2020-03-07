@@ -28,6 +28,18 @@ Before committing your changes, fill in the Commit changes dialog boxes. The fir
 
 :bulb: **Tip:** Try to provide detailed summaries, as it helps to understand the reasons for your suggested changes. :bulb:
 
+The truncated comments you make in the first box appear in the list of files on the main GitHub page (see example below). 
+
+| Truncated Comments |
+| ------------- |
+| <img width="872" alt="Screen Shot 2020-03-07 at 2 02 03 PM" src="https://user-images.githubusercontent.com/61890341/76153107-40f17a80-607c-11ea-974e-f9e968cea3c1.png"> |
+
+Roll your mouse over truncated comments to see the full description you put in the second box. 
+
+| Fulll Comments |
+| ------------- |
+| <img width="344" alt="Screen Shot 2020-03-07 at 2 04 38 PM" src="https://user-images.githubusercontent.com/61890341/76153162-eefd2480-607c-11ea-9c45-b9654121f441.png"> |
+
 ----------------------
 ## Return to Start of Document
 
