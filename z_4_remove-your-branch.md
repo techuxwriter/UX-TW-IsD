@@ -1,6 +1,6 @@
 # Removing Your Branch
 
-There may be a reason to remove your branch, for example, if you are testing a branch or miss-name the branch and so on.
+Like me, you may have a reason to remove your branch. For example, if you are testing a branch or miss-name the branch, or you decide it's outdated, etc. Whatever the reason, here's how you remove your branch.  
 
 To remove your branch, do the following:
 
@@ -21,7 +21,6 @@ To remove your branch, do the following:
 :no_entry: `While there is No Warning, if you delete accidentally, you can restore (Restore button), as long as you are on the page. This page also directly links to your PRs and closed PRs.` :no_entry:
 
 4. To view other optional displays, click: Yours, Active, Stale, and All branches Buttons (see below).
-
 
 ----------------------
 ## Return to Start of Document
