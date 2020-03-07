@@ -15,7 +15,7 @@ To create your own branch, do the following (see example image below). **Please 
 
 ## Protocols: Here's Why
 
-This allows for the tracking of your submitted branch, commits, and PRs and is more effective thansomething random. 
+This allows for the tracking of your submitted branch, commits, and PRs and is more effective than something random. 
 
 | Branches Creation |
 | ------------- |
