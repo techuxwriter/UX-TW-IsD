@@ -1,6 +1,6 @@
 # Git Basic Terms/Concepts
 
-These are some of the basic concepts and terms that I have learned while using Git. It is not exhaustive, but rather a starting point. :grinning:
+These are some of the basic concepts and terms that I have learned while using Git. It is not exhaustive, but rather a starting point. In addtion, this GitHub focuses on the GitHub interface functionality not Git command line fuctionality. 
 
 This section discusses the following main topics:
 
