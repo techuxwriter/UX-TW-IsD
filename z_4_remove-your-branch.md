@@ -12,7 +12,7 @@ To remove your branch, do the following:
 | ------------- |
 | <img width="862" alt="Screen Shot 2020-03-05 at 1 33 14 PM" src="https://user-images.githubusercontent.com/61600802/76028000-8419e500-5ee6-11ea-8488-06520fbd292c.png">  |
 
-3. Click the **Trash Can** icon to delete.
+3. Click the **Red Trash Can** icon to delete.
 
 | Trash Can Icon |
 | ------------- |
@@ -20,7 +20,7 @@ To remove your branch, do the following:
 
 :no_entry: `While there is No Warning, if you delete accidentally, you can restore (Restore button), as long as you are on the page. This page also directly links to your PRs and closed PRs.` :no_entry:
 
-4. To view other optional displays, click: Yours, Active, Stale, and All branches Buttons (see below).
+4. To view other optional displays, click: Yours, Active, Stale, and All branches Buttons.
 
 ----------------------
 ## Return to Start of Document
