@@ -63,7 +63,7 @@ There's a lot of info out there. Here's a few to get you started.
 
 ## Related Topics
 
-* [Yes, Keep  me Notified of Changes/Updates](z_2_yes-get-notifications.md)
+* [Basic Git Terms and Concepts You Should Know](z_1_concepts.md)
 * [Create Your Branch for Your Suggested Changes/Updates](z_3_create-your-branch.md)
 * [Should You Want to Delete Your Branch](z_4_remove-your-branch.md)
 * [Edit and Commit Your Changes](z_5_edit-and-commit-your-changes.md)
