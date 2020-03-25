@@ -6,11 +6,11 @@ If you are unfamiliar with Git/GitHub, this is your starting point. While Git ca
 
 These Git pages consist of the following main topics. Start here to move through the various topics below.
 
-* :point_right: [**Start Here** = Basic Git Terms and Concepts You Should Know](z_concepts.md) :point_left:
-* [Create Your Branch for Your Suggested Changes/Updates](z_create-your-branch.md)
-* [Should You Want to Delete Your Branch](z_remove-your-branch.md)
-* [Yes, Keep  me Notified of Changes/Updates](z_yes-get-notifications.md)
-
+* :point_right: [**Start Here** = Basic Git Terms and Concepts You Should Know](z_1_concepts.md) :point_left:
+* [Yes, Keep  me Notified of Changes/Updates](z_2_yes-get-notifications.md)
+* [Create Your Branch for Your Suggested Changes/Updates](z_3_create-your-branch.md)
+* [Should You Want to Delete Your Branch](z_4_remove-your-branch.md)
+* [Edit and Commit Your Changes](z_5_edit-and-commit-your-changes.md)
 ----------------------
 
 Copyright © 2020 Keith A. Mahoney, UX Writer, Tech Writer, Instructional Designer. Email me at: techuxwriter@gmail.com
