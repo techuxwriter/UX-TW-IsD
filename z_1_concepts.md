@@ -12,6 +12,7 @@ This section discusses the following main topics:
 * [Git Pull Request](#git-pull-request)
 * [Markdown Files](#markdown-files)
 * [Useful Git Links](#useful-git-links)
+* [Related Topics](#useful-git-links)
 
 ## GitHub
 
