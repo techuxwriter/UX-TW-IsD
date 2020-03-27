@@ -38,8 +38,8 @@ This allows for the tracking of your submitted branch, commits, and PRs and is m
 
 ## Related Topics
 
-* [Yes, Keep  me Notified of Changes/Updates](z_2_yes-get-notifications.md)
 * [Basic Git Terms and Concepts You Should Know](z_1_concepts.md)
+* [Yes, Keep  me Notified of Changes/Updates](z_2_yes-get-notifications.md)
 * [Should You Want to Delete Your Branch](z_4_remove-your-branch.md)
 * [Edit and Commit Your Changes](z_5_edit-and-commit-your-changes.md)
 
