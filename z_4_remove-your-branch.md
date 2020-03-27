@@ -22,6 +22,12 @@ To remove your branch, do the following:
 
 4. To view other optional displays, click: Yours, Active, Stale, and All branches Buttons.
 
+
+* [Basic Git Terms and Concepts You Should Know](z_1_concepts.md) 
+* [Yes, Keep  me Notified of Changes/Updates](z_2_yes-get-notifications.md)
+* [Create Your Branch for Your Suggested Changes/Updates](z_3_create-your-branch.md)
+* [Edit and Commit Your Changes](z_5_edit-and-commit-your-changes.md)
+
 ----------------------
 ## Return to Start of Document
 
