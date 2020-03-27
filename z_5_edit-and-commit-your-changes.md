@@ -40,6 +40,12 @@ Roll your mouse over truncated comments to see the full description you put in t
 | ------------- |
 | <img width="344" alt="Screen Shot 2020-03-07 at 2 04 38 PM" src="https://user-images.githubusercontent.com/61890341/76153162-eefd2480-607c-11ea-9c45-b9654121f441.png"> |
 
+
+* [Basic Git Terms and Concepts You Should Know](z_1_concepts.md) :point_left:
+* [Yes, Keep  me Notified of Changes/Updates](z_2_yes-get-notifications.md)
+* [Create Your Branch for Your Suggested Changes/Updates](z_3_create-your-branch.md)
+* [Should You Want to Delete Your Branch](z_4_remove-your-branch.md)
+
 ----------------------
 ## Return to Start of Document
 
