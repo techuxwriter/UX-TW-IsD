@@ -1,6 +1,6 @@
 # Getting Notifications
 
-To receive notifications letting you know about changes to the master branche made by all participants, change the notification to Watch.
+To receive notifications letting you know about changes to the master branch made by all participants, change the notification to Watch.
 
 1. From the **Master Branch** (master), go to the Watch dialog box, top of the page (see image below).
 
