@@ -14,7 +14,7 @@ As a contributor (you), this is the branch from which you (for the most part) cr
 
 To create your own branch, do the following (see example image below). **Please follow these protocols**.  
 
-1. From the **master branch pull down menu button & field, enter:**
+1. From the **master branch pull-down menu button & field, enter:**
 
 * Your Name (can be your real name, first and/or last, or an alias)
 * Name of Your Branch 
