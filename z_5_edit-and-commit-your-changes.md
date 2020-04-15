@@ -22,7 +22,7 @@ Each of the .md files displayed has a pencil icon to the top right of the file. 
 
 # Now, Commit Your Changes
 
-Before committing your changes, fill in the Commit changes dialog boxes. The first box is limited to 50 characters. There are no limits in the second dialog box. **Do not leave blank.**
+Before committing your changes, fill in the Commit changes dialog boxes. The first box is limited to 50 characters, and there are no limits in the second dialog box. **Do not leave blank.**
 
 <img width="785" alt="Screen Shot 2020-03-07 at 12 58 17 PM" src="https://user-images.githubusercontent.com/61890341/76152337-56ae7200-6073-11ea-9b74-fa3dd7e01777.png">
 
