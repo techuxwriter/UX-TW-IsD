@@ -1,6 +1,6 @@
 # Git Basic Terms/Concepts
 
-These are some of the basic concepts and terms that I have learned while using Git. It is not exhaustive, but rather a starting point. In addtion, this GitHub focuses on the GitHub interface functionality not Git command line fuctionality. 
+These are some of the basic concepts and terms that I have learned while using Git. It is not exhaustive, but rather a starting point. In addition, this GitHub focuses on the GitHub interface functionality not Git command line functionality.
 
 This section discusses the following main topics:
 
@@ -18,7 +18,7 @@ This section discusses the following main topics:
 
 Essentially, there are two main versions of GitHub the UNIX/Command Line version and the online interface version. Though a GitHub can be thought of as a repository for hosting content, Git itself is a command-line tool that power users (such as engineering) use. While I have explored using the CLI and [PyCharm](https://www.jetbrains.com/pycharm), etc., personally, I prefer the interface, which is more user-friendly. See [Git Wiki](https://en.wikipedia.org/wiki/Git) for more details. 
 
-* **Note:** There are many resources for advance Git CLI usage, and lots of UNIX/Linux commands for Git. I'm not going to cover those but would encourage you to learn these.  
+* **Note:** There are many resources for advanced Git CLI usage, and lots of UNIX/Linux commands for Git. I'm not going to cover those but would encourage you to learn these.  
 
 ## Git
 
@@ -38,7 +38,7 @@ You can create your own branches from these Master Branches. Because of this, it
 
 Without going too deep, basically, your commit/ a commit is part of the editing process. You edit the .md file then perform a commit. This is the way you save your suggested changes from the branch you created from the Master Branch.
 
-On the GitHub interface, when you commit the changes, it simply means _save your changes_. The Commit button (bottom of the .md file/page) is used to save your changes to your local branch, not the Master Branch.  You do this before peforming a Pull Request (PR). Until you submit a PR, no one can see your changes (your commits).  
+On the GitHub interface, when you commit the changes, it simply means _save your changes_. The Commit button (bottom of the .md file/page) is used to save your changes to your local branch, not the Master Branch.  You do this before performing a Pull Request (PR). Until you submit a PR, no one can see your changes (your commits).  
 
 Whenever you add, edit, or delete a file, you're making a commit and adding them to your branch. The process of commits keeps track in GitHub of your progress as you work on your own branch.
 
