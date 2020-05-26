@@ -8,7 +8,7 @@ If you are unfamiliar with Git/GitHub, this is your starting point. While Git ca
 
 These Git pages consist of the following main topics. Start here to move through the various topics below.
 
-* :point_right: [**Start Here** = Basic Git Terms and Concepts You Should Know](z_1_concepts.md) :point_left:
+* :point_right:  [**Start Here** = Basic Git Terms and Concepts You Should Know](z_1_concepts.md) :point_left:
 * [Yes, Keep  me Notified of Changes/Updates](z_2_yes-get-notifications.md)
 * [Create Your Branch for Your Suggested Changes/Updates](z_3_create-your-branch.md)
 * [Should You Want to Delete Your Branch](z_4_remove-your-branch.md)
