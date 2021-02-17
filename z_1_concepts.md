@@ -11,7 +11,7 @@ This section discusses the following main topics:
 * [Git Commits](#git-commits)
 * [Git Pull Request](#git-pull-request)
 * [Markdown Files](#markdown-files)
-* [Useful Git Links](#useful-git-links)
+* [Useful Git Links: Cheatsheets, etc](#useful-git-links)
 * [Related Topics](#useful-git-links)
 
 ## GitHub
@@ -57,6 +57,7 @@ A Pull Request (or PR) initiates a review and/or discussion about your commits: 
 There's a lot of info out there. Here's a few to get you started. 
 
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [More Markdown Cheatsheets](https://cheatography.com/tag/markdown)
 * [Markdown Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * [Extended Markdown Syntax](https://www.markdownguide.org/extended-syntax/)
 
