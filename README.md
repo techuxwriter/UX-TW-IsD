@@ -15,4 +15,4 @@ These Git pages consist of the following main topics. Start here to move through
 * [Edit and Commit Your Changes](z_5_edit-and-commit-your-changes.md)
 ----------------------
 
-Copyright © 2020 Keith A. Mahoney, UX Writer, Tech Writer, Instructional Designer. Email me at: techuxwriter@gmail.com
+Copyright © 2021 Keith A. Mahoney, UX Writer, Tech Writer, Instructional Designer. Email me at: techuxwriter@gmail.com
