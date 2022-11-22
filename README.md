@@ -1,6 +1,11 @@
-# UX Writer, Technical Writer, and Instructional Designer GitHub Site
+# UX Writer, Technical Writer, and Instructional Designer & Project/Program Manager GitHub Site
+
+## I know how to use Git/GitHub
 
 If you're familiar with Git/GitHub then head to the [Wiki portion of this GitHub site](https://github.com/techuxwriter/UX-Tech-Writer-IsD-GitHub/wiki) where you can enjoy the topics and make suggested changes to the site.   
+
+
+## I don't know how to use Git/GitHub
 
 If you are unfamiliar with Git/GitHub, this is your starting point. While Git can be a bit scary for non-technical users (folks who do not use command line, such as UNIX), the GitHub interface is quite easy to use and I invite you to participate and submit your suggestions for improvement, additions, and join in.
 
@@ -15,4 +20,4 @@ These Git pages consist of the following main topics. Start here to move through
 * [Edit and Commit Your Changes](z_5_edit-and-commit-your-changes.md)
 ----------------------
 
-Copyright © 2021 Keith A. Mahoney, UX Writer, Tech Writer, Instructional Designer. Email me at: techuxwriter@gmail.com
+Copyright © 2021- 2023 Keith A. Mahoney, UX Writer, Tech Writer, Instructional Designer. Email me at: techuxwriter@gmail.com
